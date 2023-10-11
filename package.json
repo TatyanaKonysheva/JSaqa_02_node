@@ -4,7 +4,8 @@
   "description": "studying node",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "eslint": "eslint"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/TatyanaKonysheva/JSaqa_02_node/issues"
   },
-  "homepage": "https://github.com/TatyanaKonysheva/JSaqa_02_node#readme"
+  "homepage": "https://github.com/TatyanaKonysheva/JSaqa_02_node#readme",
+  "devDependencies": {
+    "eslint": "7.1.0"
+  }
 }
